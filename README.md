@@ -26,4 +26,4 @@ b. второй имеет 6 входов и выходов;
 
 ![Image alt](https://github.com/VadimPodvouskiy/Neural_Network_Lab_1/raw/master/Accuracy%20relatively%20Epoch.png)
 
-https://github.com/VadimPodvouskiy/Neural_Network_Lab_1/raw/master/Loss%20relatively%20Epoch.png
+![Image alt](https://github.com/VadimPodvouskiy/Neural_Network_Lab_1/raw/master/Loss%20relatively%20Epoch.png)
